@@ -9,7 +9,9 @@
 			<array>
 				<dict>
 					<key>url</key>
-					<string>http://211.141.83.103:8080/LawMobileApp/app-down.html</string>
+					<string>
+
+http://211.141.83.103:8080/LawMobileApp/app-down.html</string>
 				</dict>
 				</array>
 			<key>metadata</key>
