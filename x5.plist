@@ -33,13 +33,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.human.App</string>
+				<string>com.nuchina.hu</string>
 				<key>bundle-version</key>
-				<string>1.1.1</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>http://192.168.1.15:8080/HuManApp/humanapp.apk</string>
+				<string>http://192.168.1.15:8090/HuManApp/humanapp.ipa</string>
 			</dict>
 		</dict>
 	</array>
